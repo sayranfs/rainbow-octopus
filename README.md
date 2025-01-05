@@ -1,6 +1,6 @@
 # 🌈🐙 Rainbow Octopus
 
-<div align="center"><img src="src/assets/rainbow_octopus.png" alt="Rainbow Octopus Logo PNG" width="250" /></div>
+<div align="center"><img src="https://raw.githubusercontent.com/sayranfs/rainbow-octopus/refs/heads/main/src/assets/rainbow_octopus.png" alt="Rainbow Octopus Logo PNG" width="250" /></div>
 
 **Rainbow Octopus** is a Node.js package inspired by [chalk](https://www.npmjs.com/package/chalk) and [colors](https://www.npmjs.com/package/colors). It is designed to make terminal message formatting easier, focusing on **quick and straightforward debugging**.
 
