@@ -1,0 +1,26 @@
+{
+  "name": "rbocto",
+  "version": "0.0.0-testing",
+  "type": "module",
+  "main" : "src/index.js",
+  "types" : "index.d.ts",
+  "scripts": {
+    "dev": "node src/sample.js"
+  },
+  "keywords": [
+    "debug",
+    "nodejs",
+    "terminal",
+    "debugger",
+    "configurable"
+  ],
+  "author": "Sayran Felix",
+  "license": "ISC",
+  "description": "an easy way to debug your code with nodejs",
+  "devDependencies": {
+    "@types/node": "^22.10.5",
+    "ts-node": "^10.9.2",
+    "ts-node-dev": "^2.0.0",
+    "typescript": "^5.7.2"
+  }
+}
